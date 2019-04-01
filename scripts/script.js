@@ -6,7 +6,7 @@ import oneRow from '/scripts/modules/oneRow.js';
 
 const paramGall = {
     hover_animation: "scale", // - animation for hover-efect 
-    structure: "oneRow", // "oneRow", "table"
+    structure: "table", // "oneRow", "table"
     struct_cols: "14-8-8-2", // from 1 - 12, "default" - numbers of items in one row foe diferent screens (fron big screens to mobile). If "default" - 8, 6, 3, 2.
     item_order: "equally", // "mix" "equally"
     item_margin: 0, // "no" - parameter for margins bettwen items
